@@ -40,7 +40,7 @@ namespace ConsoleApp2
                         name.Add(Console.ReadLine());
                         Console.WriteLine($"input surname");
                         surname.Add(Console.ReadLine());
-                        Console.WriteLine($"input pasition");
+                        Console.WriteLine($"input position");
                         position.Add(Console.ReadLine());
                         Console.WriteLine($"input salary");
                         salary.Add(Convert.ToDouble(Console.ReadLine()));
